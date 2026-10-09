@@ -1,0 +1,3 @@
+Are you a student Yes/No: Yes
+Enter purchase amount: 60000
+Student Discount + Backpack

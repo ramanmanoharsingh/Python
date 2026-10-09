@@ -1,0 +1,4 @@
+Enter principal amount: 10000
+Enter rate: 5
+Enter time: 2
+Simple Interest: 1000.0

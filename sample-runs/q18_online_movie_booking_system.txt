@@ -1,0 +1,8 @@
+Enter show time Morning/Evening: Morning
+Enter age category Child/Adult: Adult
+Enter number of tickets: 6
+Enter booking day: Sunday
+Ticket Cost: 1080
+Discount: 108.0
+Convenience Charge: 50
+Final Amount: 1022.0

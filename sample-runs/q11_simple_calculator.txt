@@ -1,0 +1,4 @@
+Enter first number: 25
+Enter second number: 5
+Enter operator: *
+Answer: 125.0

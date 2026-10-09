@@ -1,0 +1,5 @@
+Enter basic salary: 20000
+HRA: 3000.0
+DA: 10000.0
+EPF: 3600.0
+Total Salary: 29400.0

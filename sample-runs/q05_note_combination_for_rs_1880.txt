@@ -1,0 +1,6 @@
+500 notes: 3
+200 notes: 1
+100 notes: 1
+50 notes: 1
+20 notes: 1
+10 notes: 1

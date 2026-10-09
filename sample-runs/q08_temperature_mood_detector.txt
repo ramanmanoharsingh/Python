@@ -1,0 +1,2 @@
+Enter temperature: 38
+It's too hot! Drink water

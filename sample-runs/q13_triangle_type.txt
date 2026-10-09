@@ -1,0 +1,4 @@
+Enter first side: 5
+Enter second side: 5
+Enter third side: 8
+Isosceles triangle

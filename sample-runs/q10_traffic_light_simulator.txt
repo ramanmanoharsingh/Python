@@ -1,0 +1,2 @@
+Enter traffic light color: Red
+Stop

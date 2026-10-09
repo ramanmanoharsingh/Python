@@ -1,0 +1,2 @@
+Enter units consumed: 250
+Final Bill: 1700

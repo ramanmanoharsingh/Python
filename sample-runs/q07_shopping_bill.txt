@@ -1,0 +1,4 @@
+Enter total amount: 10000
+Discount: 1000.0
+GST: 1620.0
+Final Bill: 10620.0

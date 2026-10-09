@@ -1,0 +1,14 @@
+Enter PIN: 123456
+Access granted
+Enter transaction choice:
+1. Withdraw
+2. Deposit
+3. Balance Check
+Enter choice: 1
+Enter withdrawal amount: 25000
+OTP verification required
+Enter OTP: 000000
+OTP verified
+Transaction Status: Successful
+Remaining Balance: 25000
+Account Status: Active

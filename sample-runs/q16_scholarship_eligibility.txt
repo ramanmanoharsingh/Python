@@ -1,0 +1,8 @@
+Enter student name: Raman
+Enter marks: 82
+Enter family income: 250000
+Sports quota Yes/No: Yes
+Student Name: Raman
+Scholarship Type: Half scholarship
+Scholarship Amount: 25000
+Extra Support Amount: 5000
